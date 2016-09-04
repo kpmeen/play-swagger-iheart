@@ -1,0 +1,6 @@
+---
+
+- type: models.api.PersonProtocol.PersonId
+  specAsParameter: []
+  specAsProperty:
+    type: integer
